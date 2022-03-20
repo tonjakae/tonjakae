@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=tonjakae&color=blueviolet)
 
+[![Tonja's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonjakae)](https://github.com/tonjakae/github-readme-stats)
+
 ### Hi there 👋
 📫 How to reach me: tonja.k.williams@gmail.com
 
