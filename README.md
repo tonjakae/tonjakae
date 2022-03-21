@@ -26,7 +26,7 @@
 
 ![](https://komarev.com/ghpvc/?username=tonjakae&color=blueviolet)
 
-[![Tonja's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonjakae)](https://github.com/tonjakae/github-readme-stats)
+![Tonja's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonjakae&theme=merko&show_icons=true)
 
  
  ### Frequently Used Languages and Tools 
