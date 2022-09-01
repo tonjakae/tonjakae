@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-<h3>💻 Actively Seeking Employment | 🌏 Knoxville, USA </h3>
+<h3>💻 Advanced Analytics Analyst - Effectv | 🌏 Knoxville, USA </h3>
 </div>
 
 📫 How to reach me: tonja.k.williams@gmail.com
