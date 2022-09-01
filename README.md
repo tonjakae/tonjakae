@@ -20,7 +20,7 @@
 <h3>💻 Advanced Analytics Analyst - Effectv | 🌏 Knoxville, USA </h3>
 </div>
 
-📫 How to reach me: tonja.k.williams@gmail.com
+📫 How to reach me: tonja_williams@comcast.com
 
 😄 Pronouns: She/Her
 
