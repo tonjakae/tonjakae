@@ -8,10 +8,7 @@
  <a href="https://linkedin.com/in/tonjawilliams" target="_blank">
    <img align="center" alt="Tonja Williams | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
   
-  <a href="https://twitter.com/Tonjakae/" target="_blank">
-    <img align="center" alt="Tonja Williams | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-  </a>
-
+  
  </div>
 
 <br>
