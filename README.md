@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-<h3>💻 Advanced Analytics Analyst - Effectv | 🌏 Knoxville, TN USA </h3>
+<h3>💻 Sr. Data Analyst - Effectv | 🌏 Knoxville, TN USA </h3>
 </div>
 
 📫 How to reach me: tonja_williams@comcast.com
